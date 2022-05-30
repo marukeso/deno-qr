@@ -21,7 +21,7 @@ async function handler(req: Request): Promise<Response> {
         <head>
         </head>
         <body>
-          <h1>QR Code Generator</h1>
+          <h1>QR Code Generator!!</h1>
           <img src="${qrCode}">
         </body>
       </html>`,
